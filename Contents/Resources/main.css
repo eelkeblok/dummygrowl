@@ -1,21 +1,3 @@
-body {
-    visibility: hidden;
-}
-#background {
-    visibility: hidden;
-}
-#icon {
-    visibility: hidden;
-}
-#icon img {
-    visibility: hidden;
-}
-#title {
-    visibility: hidden;
-}
-#text {
-    visibility: hidden;
-}
-#emergency #text {
-    visibility: hidden;
+html {
+    display: none;
 }
