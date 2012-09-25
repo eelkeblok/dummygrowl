@@ -1,21 +1,21 @@
 body {
-    display: none;
+    visibility: hidden;
 }
 #background {
-	display: none;
+    visibility: hidden;
 }
 #icon {
-	display: none;
+    visibility: hidden;
 }
 #icon img {
-	display: none;
+    visibility: hidden;
 }
 #title {
-    display: none;
+    visibility: hidden;
 }
 #text {
-	display: none;
+    visibility: hidden;
 }
 #emergency #text {
-	display: none;
+    visibility: hidden;
 }
