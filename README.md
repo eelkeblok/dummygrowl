@@ -34,4 +34,3 @@ configuration controls displayed for the Dummy style are obviously not
 functional, because the purpose of the plugin is to *not* display anything. If 
 anybody knows how to get rid of the controls, please let me know or submit a pull 
 request).
->>>>>>> Add readme.md
