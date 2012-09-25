@@ -1,0 +1,21 @@
+body {
+    display: none;
+}
+#background {
+	display: none;
+}
+#icon {
+	display: none;
+}
+#icon img {
+	display: none;
+}
+#title {
+    display: none;
+}
+#text {
+	display: none;
+}
+#emergency #text {
+	display: none;
+}
